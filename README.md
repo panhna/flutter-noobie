@@ -8,7 +8,7 @@ So below is what I have experience with flutter.
 
 ###### Make a README is inspired by [Keep a Changelog](https://github.com/dguo/make-a-readme/blob/master/README.md).
 
-## Table of Contents
+## 🚀 Table of Contents
 
 - [OOP Is Back!](#oop-is-back)
 - [Basic Dart](https://github.com/smartherd/DartTutorial)
@@ -61,10 +61,15 @@ Many more checkout [article above](#https://medium.com/flutter-community/flutter
 - Attachment with some screenshot or code snippet
 - Create example for some difficualt part
 
-## Contributing
+## 🍰 Contributing
 
 Please feel free to submit an issue or pull request.
 
 ## License
 
 [MIT](https://github.com/dguo/make-a-readme/blob/master/LICENSE)
+
+<hr>
+<p align="center">
+Developed with ❤️ in Cambodia 🇰🇭
+</p>
