@@ -51,9 +51,17 @@ Many more checkout [article above](#https://medium.com/flutter-community/flutter
 
 ## Related Resources
 
+- [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/readme_english.md)
+
+  - 🧐 Flutter notebook is a collection of flutter demos，It can help you quickly learn some piecemeal knowledge.
+  - 😉 This project will be updated from time to time. If you find this project useful, Please recommend to more people
+  - 🤩 Most of the projects are designed to provide some solutions to the problem in flutter. If you have a better implementation or a good idea, please submit a pull request!
+
 - [Art of README](https://github.com/noffle/art-of-readme)
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [Standard Readme](https://github.com/RichardLitt/standard-readme)
+
+## Other Noted Book
 
 ## Roadmap
 
@@ -71,5 +79,5 @@ Please feel free to submit an issue or pull request.
 
 <hr>
 <p align="center">
-Developed with ❤️ in Cambodia 🇰🇭
+Developed with ❤️ &nbspin Cambodia 🇰🇭
 </p>
