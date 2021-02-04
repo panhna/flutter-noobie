@@ -39,6 +39,17 @@ Bloc (Highly Recommended) For Complex Data Management
 
 ## Cool Package 😍
 
+- [swipeable_card](https://pub.dev/packages/swipeable_card) Add swipeable card-like widgets for games or interactive onboarding screens
+- [strengthpassword](https://pub.dev/packages/strengthpassword) A new Flutter package for both android and iOS which helps to find the strength of password and if password is weak it doesnt allow validation
+- [popover](https://pub.dev/packages/popover) A popover is a transient view that appears above other content onscreen when you tap a control or in an area. Typically, a popover includes an arrow pointing to the location from which it emerged.
+- [DrawerSwipe](https://pub.dev/packages/drawer_swipe) A Swipe Drawer Library for Easy and Quick Usage.
+- [ThemeModeSelector](https://pub.dev/packages/thememode_selector) I am currently working with the concept of Theme's in Flutter and I wanted to build a widget which would allow me to switch between light and dark themes.
+- [alphabet_scroll_view](https://pub.dev/packages/alphabet_scroll_view) A Scrollable ListView Widget with the dynamic vertical Alphabet List on the Side which you can drag and tap to scroll to the first item starting with that letter in the list.
+- [cupertino_listview](https://pub.dev/packages/cupertino_listview) This library tends to be the equivalent of iOS UITableView with plain sections.
+- [double_tap_player_view](https://pub.dev/packages/double_tap_player_view) Created to handle fast forward/rewind behavior by double tap and horizontal drag like a video player.
+  This plugin is inspired to DoubleTapPlayerView.
+- [brand_circle_loading](https://pub.dev/packages/brand_circle_loading) Brand Circle Loading
+- [gizmos_settings_screen](https://pub.dev/packages/gizmos_settings_screen) A Flutter package for displaying settings screens (or similar screens).
 - [hive](https://pub.dev/packages/hive) Fast, Enjoyable & Secure NoSQL Database
 - [flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh) a widget provided to the flutter scroll component drop-down refresh and pull up load.support android and ios. If you are Chinese.
 - [Timelines](https://pub.dev/packages/timelines) A powerful & easy to use timeline package for Flutter! 🚀
