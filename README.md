@@ -51,6 +51,12 @@ Many more checkout [article above](#https://medium.com/flutter-community/flutter
 
 ## Related Resources
 
+- **Tips**
+
+  - [10 Flutter Tips to Be More Productive (Video)](https://www.youtube.com/watch?v=14VtPQ1aoaU)
+  - [Flutter Folder Structure and Packages](https://www.youtube.com/watch?v=yJRpuTP156o&t=20s&ab_channel=RobertBrunhage)
+  - [Learn Flutter Life Cycle In 10 Minutes](https://www.youtube.com/watch?v=CjloInz3-I0&ab_channel=RobertBrunhage)
+
 - [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/readme_english.md)
 
   - 🧐 Flutter notebook is a collection of flutter demos，It can help you quickly learn some piecemeal knowledge.
