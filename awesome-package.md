@@ -33,12 +33,20 @@ Provider, River Pod (For first start of state management) For Small App
 
 Bloc (Highly Recommended) For Complex Data Management
 
+- [bloc_rest_api](https://pub.dev/packages/bloc_rest_api) A flutter package to easily integrate and manage REST APIs. Now all you need to do is create a model class and all the rest is taken care of. :)
+
 ## Notification
 
 - [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) A cross platform plugin for displaying local notifications.
 
 ## Cool Package 😍
 
+- [beamer](https://pub.dev/packages/beamer) Handle your application routing, synchronize it with browser URL and more. Beamer uses the power of Navigator 2.0 API and implements all the underlying logic for you.
+- [Sn Progress Dialog](https://pub.dev/packages/sn_progress_dialog) Progress dialog package for flutter
+- [Animated Image List for Flutter](https://pub.dev/packages/animated_image_list) Flutter Animated image list with parallax effect and image lightbox.
+- [async_button_builder](https://pub.dev/packages/async_button_builder) A builder that adds loading, disabled, errored and completed states on top of buttons that perform asynchronous tasks.
+- [anim_search_bar](https://pub.dev/packages/anim_search_bar) Anim Search Bar
+- [✨ Flutter Spinkit](https://pub.dev/packages/flutter_spinkit) A collection of loading indicators animated with flutter. Heavily inspired by @tobiasahlin's SpinKit.
 - [swipeable_card](https://pub.dev/packages/swipeable_card) Add swipeable card-like widgets for games or interactive onboarding screens
 - [strengthpassword](https://pub.dev/packages/strengthpassword) A new Flutter package for both android and iOS which helps to find the strength of password and if password is weak it doesnt allow validation
 - [popover](https://pub.dev/packages/popover) A popover is a transient view that appears above other content onscreen when you tap a control or in an area. Typically, a popover includes an arrow pointing to the location from which it emerged.
