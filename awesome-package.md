@@ -41,6 +41,12 @@ Bloc (Highly Recommended) For Complex Data Management
 
 ## Cool Package 😍
 
+- [just_audio](https://pub.dev/packages/just_audio) just_audio is a feature-rich audio player for Android, iOS, macOS and web.
+- [very_good_cli](https://pub.dev/packages/very_good_cli) A Very Good Command Line Interface for Dart.
+- [scaled_list](https://pub.dev/packages/scaled_list) A Horizontal List view With Lots of modification including a scaled current item.
+- [Flutter Password Validator](https://pub.dev/packages/flutter_pw_validator) Flutter Password Validator
+- [multiavatar](https://pub.dev/packages/multiavatar) Multiavatar represents people from multiple races, multiple cultures, multiple age groups, multiple worldviews and walks of life.
+- [Shimmer](https://pub.dev/packages/shimmer) A package provides an easy way to add shimmer effect in Flutter project
 - [beamer](https://pub.dev/packages/beamer) Handle your application routing, synchronize it with browser URL and more. Beamer uses the power of Navigator 2.0 API and implements all the underlying logic for you.
 - [Sn Progress Dialog](https://pub.dev/packages/sn_progress_dialog) Progress dialog package for flutter
 - [Animated Image List for Flutter](https://pub.dev/packages/animated_image_list) Flutter Animated image list with parallax effect and image lightbox.
