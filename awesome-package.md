@@ -41,6 +41,16 @@ Bloc (Highly Recommended) For Complex Data Management
 
 ## Cool Package 😍
 
+- [nil](https://pub.dev/packages/nil) A simple widget to add in the widget tree when you want to show nothing, with minimal impact on performance.
+- [crop_your_image](https://pub.dev/packages/crop_your_image) A flutter plugin which provides Crop Widget for cropping images.
+- [file_saver](https://pub.dev/packages/file_saver) This plugin package is not much but only for saving files in Android, iOS, Web, Windows, MacOS and Linux.
+- [internet_connection_checker](https://pub.dev/packages/internet_connection_checker) A Pure Dart Utility library that checks for an Active Internet connection by opening a socket to a list of specified addresses, each with individual port and timeout. Defaults are provided for convenience.
+- [instagram_mention](https://pub.dev/packages/instagram_mention) Instagram Mention Widgets
+- [flutter_advanced_avatar](https://pub.dev/packages/flutter_advanced_avatar) An advanced avatar provides a rich API for widget customization that opens a new look and feel in your app.
+- [Textless](https://pub.dev/packages/textless) Less is More; Widgetless Text
+- [emoji_picker_flutter](https://pub.dev/packages/emoji_picker_flutter) Yet another Emoji Picker for Flutter
+- [flutter_advanced_calendar](https://pub.dev/packages/flutter_advanced_calendar) An advanced calendar provides a rich API for widget customization that opens a new look and feel in your app.
+- [chips_input](https://pub.dev/packages/chips_input) Flutter library for building input fields with InputChips as input options.
 - [just_audio](https://pub.dev/packages/just_audio) just_audio is a feature-rich audio player for Android, iOS, macOS and web.
 - [very_good_cli](https://pub.dev/packages/very_good_cli) A Very Good Command Line Interface for Dart.
 - [scaled_list](https://pub.dev/packages/scaled_list) A Horizontal List view With Lots of modification including a scaled current item.
